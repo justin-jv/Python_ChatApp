@@ -1,1 +1,3 @@
-# Simple ChatApp using Python
+# ChatApp using Python
+
+This is a simple ChatApp using python
